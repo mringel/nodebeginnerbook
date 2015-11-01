@@ -13,4 +13,8 @@ blocking - blocking and non-blocking functions on p27
 
 requesthandler - begin making a request handler
 
-Currently working on page 38.
+handlefileuploads - for section starting at bottom of page 38 on handling the
+upload of files
+
+
+Currently working on branch "handlefileuploads" and in the book on page 47.
